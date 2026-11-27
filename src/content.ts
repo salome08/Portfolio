@@ -8,13 +8,13 @@ export const profile = {
     'Freelance React, React Native and Node.js engineer with 9 years of experience. I ship subscription flows, payments, reliable mobile releases and AI features, end to end.',
   location: 'Based in Paris, working full remote (UTC+2)',
   availability: 'Available from December 9 · 3 to 5 days a week',
-  email: 'salome.hazan@yahoo.fr',
+  email: 'salome.hazan.dev@gmail.com',
   photo: '/img/salome.webp',
   links: {
     github: 'https://github.com/salome08',
     linkedin: 'https://www.linkedin.com/in/salom%C3%A9-hazan-631894b5/?locale=en_US',
-    // Paste your Malt profile URL here: the "Hire me on Malt" buttons only show once it is set.
-    malt: '',
+    // The "Hire me on Malt" buttons only show when this is set.
+    malt: 'https://www.malt.fr/profile/salomehazan',
   },
 };
 
