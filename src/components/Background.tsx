@@ -19,7 +19,7 @@ function Stars() {
     return positions;
   }, []);
 
-  useFrame((state, delta) => {
+  useFrame((_state, delta) => {
     if (ref.current) {
       ref.current.rotation.x -= delta / 20;
       ref.current.rotation.y -= delta / 25;
