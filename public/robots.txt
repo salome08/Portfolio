@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salomehazan.netlify.app/sitemap.xml
